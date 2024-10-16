@@ -47,6 +47,7 @@ In this work, I have compared hosts based on several criteria and discovering in
 ## :page_with_curl:Database schema
 
 
+##  <img src=https://user-images.githubusercontent.com/79499162/182786244-11dd6893-63c6-4ee4-baeb-350cb7d02fd7.png width="48" height="48">
 
 
 
